@@ -1,0 +1,15 @@
+{
+  "name": "send_alta_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send_email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chverma",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.17"
+  }
+}
